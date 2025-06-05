@@ -1,5 +1,12 @@
 # 📊 Business Insights 360 – Power BI Dashboard
 
+## 🔗 Live Dashboard
+
+Click below to explore the interactive Power BI dashboard hosted on Power BI Service:
+
+👉 [View Dashboard on Power BI](https://app.powerbi.com/view?r=eyJrIjoiZmFhNGMxZTAtZjllYS00ZDBjLWI2NmItNjJlMTgyNGI5NjFkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection0e765c0061580b067c73)
+
+
 ## 🔍 Project Overview
 **Business Insights 360** is a comprehensive Power BI solution developed to help **AtliQ Hardware**, a growing B2B electronics distributor, improve data reporting and enable strategic decision-making across departments. Inspired by the **Codebasics Power BI course**, this project applies real-world practices in data modeling, DAX, and user-focused dashboard design.
 
